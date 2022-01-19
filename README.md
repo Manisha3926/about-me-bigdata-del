@@ -2,11 +2,15 @@
 
 ## Current
 
-Currently Iam pursuing Masters in Applied Computerscience at Northwest Missouri State University.
+I am pursuing my Masters in Applied Computer Science at Northwest Missouri State University.
 
-## Future
+## Background
 
-I want to work as a Frontend developer.
+I am from Vijayanagaram , AndhraPradesh, India. I completed my undergrad in Electronics and Communication Engineering at Raghu Institute of Technology, Visakhapatnam.
+
+## Plans
+
+I would like to work as a Frontend developer.
 
 ## Links
 
@@ -14,6 +18,7 @@ I want to work as a Frontend developer.
 -[Github] (https://github.com/Manisha3926)
 
 ## Me
+
 ![My picture](https://github.com/Manisha3926/about-me-bigdata-del/blob/main/a.jpg).
 
 
