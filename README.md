@@ -20,7 +20,7 @@ I want to work as a Frontend developer.
 -[Github] (https://github.com/Manisha3926)
 
 ## Me
-![alt text for screen readers](/path/to/image.png "Text to show on mouseover").
+![My picture](https://github.com/Manisha3926/about-me-bigdata-del/blob/main/a.jpg).
 
 
 
