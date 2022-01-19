@@ -1,10 +1,4 @@
-# about-me-bigdata-del
-
-> This is my developer page.
- 
-## Page
-
-This is where I've been
+# Manisha Mandapati
 
 ## Current
 
